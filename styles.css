@@ -1,7 +1,16 @@
 body {
-    margin: 0;
-    background: rgb(37, 41, 46);
-    text-align: center;
-    color:whitesmoke;
     font-family: monospace;
+    color: whitesmoke;
+    background: rgb(37, 41, 46);
 }
+
+h1 {
+    margin: 10;
+    text-align: center;
+}
+
+p {
+    margin: 0;
+    text-align: center;
+}
+
