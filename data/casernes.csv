@@ -1,4 +1,4 @@
-rescue_center,longitude_before_departure,latitude_before_departure,selection_time
+rescue_center,longitude_before_departure,latitude_before_departure,count_interventions
 2418,2.528178,49.015576,15
 2434,2.304793,48.749101,2336
 2435,2.284342,48.923697,1957
